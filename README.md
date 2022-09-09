@@ -1,7 +1,7 @@
-## Bem vindo ao meu perfil 
+#Olá!
+Sou estudante do segundo semestre do curso de Análise e desenvolvimento de sistemas na UNIFAMETRO.
 
 
--
 
 -->
 <div>
@@ -10,5 +10,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MILENAFORTUNA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
- 🌱 I’m currently learning ...HTML, CSS, JAVASCRIPT
-- 📫 How to reach me: milenafortuna@yahoo.com.br ou milenafortuna87@gmail.com
+ :trollface: Aprendendo HTML, CSS, JAVASCRIPT.
+ :love_letter: How to reach me: milenafortuna@yahoo.com.br ou milenafortuna87@gmail.com
