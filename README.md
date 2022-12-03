@@ -1,5 +1,5 @@
 #Olá!
-Estudante do segundo semestre do curso de Análise e desenvolvimento de sistemas na UNIFAMETRO,
+Sou studante do segundo semestre do curso de Análise e desenvolvimento de sistemas na UNIFAMETRO,
 estagiária na empresa DocSales,
 
 e ex advogada. 
