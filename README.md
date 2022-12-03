@@ -12,5 +12,5 @@ e ex advogada.
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MILENAFORTUNA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
- :trollface: Aprendendo HTML, CSS, J
+ :trollface: Aprendendo HTML, CSS, Javascript e Ruby
  :love_letter: Contatos: milenafortuna@yahoo.com.br ou milenafortuna87@gmail.com
